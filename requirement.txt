@@ -1,0 +1,9 @@
+certifi==2019.9.11
+Django==2.2.6    
+gunicorn==19.9.0   
+pip==19.3.1   
+psycopg2==2.8.3    
+pytz==2019.3   
+setuptools==41.4.0   
+sqlparse==0.3.0    
+wheel==0.33.6   
